@@ -15,7 +15,7 @@
 <h3> Bull and Cows Rule: </h3>
 
 • 	
-On a sheet of paper, each player writes a 4-digit secret number, with no repeated digits, which they must not let their opponent see.
+Each player writes a 4-digit secret number, with no repeated digits, which they must not let their opponent see.
 
 • 	
 The players take turns trying to guess each other's secret number. After each guess, their opponent provides feedback about the number of matches: if they guess a correct digit in the correct position, it is called a "bull," while if they match a digit but in the wrong position, it is called a "cow."
