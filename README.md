@@ -8,9 +8,9 @@
 
 
 <h3> How to Play</h3>
-1. Download all .py files into one folder
-2. open 숫자야구.py
-3. debug or compile on IDE
+<span> 1. Download all .py files into one folder</span>
+<span>2. open 숫자야구.py</span>
+<span>3. debug or compile on IDE</span>
 
 <h3> Bull and Cows Rule: </h3>
 
