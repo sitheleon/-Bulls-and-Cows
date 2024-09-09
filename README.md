@@ -8,7 +8,7 @@
 
 
 <h3> How to Play</h3>
-<span> 1. Download all .py files into one folder</span>
+<br> 1. Download all .py files into one folder</br>
 <span>2. open 숫자야구.py</span>
 <span>3. debug or compile on IDE</span>
 
