@@ -1,5 +1,5 @@
 <h1> DEVELOPED BY LEE SI HYEON / KHU DIGITAL CONTENTS </h1>
-<h2> CODEIT Python project </h2>
+<h2> CODEIT Python project (https://www.codeit.kr/) </h2>
 
 
 <h3> Python </h3>
@@ -32,4 +32,3 @@ Rule source: https://www.maplesoft.com/support/help/Maple/view.aspx?path=MathApp
 
 
 
-COPYRIGHT@Sitheleon ALL RIGHTS RESERVED.
