@@ -12,7 +12,7 @@
 2. open 숫자야구.py
 3. debug or compile on IDE
 
-Bull and Cows Rule:
+<h3> Bull and Cows Rule: </h3>
 
 • 	
 On a sheet of paper, each player writes a 4-digit secret number, with no repeated digits, which they must not let their opponent see.
